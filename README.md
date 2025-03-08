@@ -1,15 +1,21 @@
-* Backend Developer
-* Low Gain Electronics Tinkerer
-* Bass Player
-* Vinyl Lover
-* Synth-DIY Nerd :) 
+## Hi there :boom: :star: :star2:
 
+> * Backend Developer
+> * Low Gain Electronics Tinkerer
+> * Bass Player
+> * Vinyl Lover
+> * Synth-DIY Nerd :) 
+
+```
 - clean code
-- php
+- mainly php
 - necessary js/html/css & necessary sql
+- experience in java, groovy, python, c
+- git, svn
 - openapi
 - tui-enthusiast
 - enbedded c for arduino (for musical applications)
+```
 
 <!--
 **benediktschoeffmann/benediktschoeffmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
