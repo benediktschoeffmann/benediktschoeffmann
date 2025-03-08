@@ -10,7 +10,6 @@
 ```
 
 ```
-```
 - clean code`
  mainly php
 - necessary js/html/css & necessary sql
