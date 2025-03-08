@@ -1,5 +1,3 @@
-## Hi there :boom: :star: :star2:
-
 🐼 About me
 ```
 * Backend Developer
