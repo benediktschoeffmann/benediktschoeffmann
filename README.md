@@ -21,7 +21,7 @@
 - enbedded c for arduino (for musical applications)
 ```
 
-🐼 [Contact me:](mailto:benedikt.schoeffmann@gmail.com)
+🐼 [Contact me](mailto:benedikt.schoeffmann@gmail.com)
 
 
 <!--
