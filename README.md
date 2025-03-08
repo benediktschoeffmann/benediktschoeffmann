@@ -1,14 +1,15 @@
 ## Hi there :boom: :star: :star2:
 
+🐼 About me
 ```
-* Backend Dev
-```eloper
+* Backend Developer
 * Low Gain Electronics Tinkerer
 * Bass Player
 * Vinyl Lover
 * Synth-DIY Nerd :)
 ```
 
+🐼 What I do
 ```
 - clean code`
  mainly php
@@ -19,6 +20,9 @@
 - tui-enthusiast
 - enbedded c for arduino (for musical applications)
 ```
+
+🐼 [Contact me:](mailto:benedikt.schoeffmann@gmail.com)
+
 
 <!--
 **benediktschoeffmann/benediktschoeffmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
