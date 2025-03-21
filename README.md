@@ -9,8 +9,8 @@
 
 🐼 What I do
 ```
-- clean code`
- mainly php
+- clean code
+ - mainly php
 - necessary js/html/css & necessary sql
 - experience in java, groovy, python, c
 - git, svn
