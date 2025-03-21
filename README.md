@@ -10,7 +10,7 @@
 🐼 What I do
 ```
 - clean code
- - mainly php
+- mainly php
 - necessary js/html/css & necessary sql
 - experience in java, groovy, python, c
 - git, svn
