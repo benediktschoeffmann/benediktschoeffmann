@@ -16,7 +16,7 @@
 - git, svn
 - openapi
 - tui-enthusiast
-- enbedded c for arduino (for musical applications)
+- embedded c for arduino (for musical applications)
 ```
 
 🐼 [Contact me](mailto:benedikt.schoeffmann@gmail.com)
